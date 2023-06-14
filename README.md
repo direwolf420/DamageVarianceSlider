@@ -2,7 +2,7 @@
 
 ![Icon](https://raw.githubusercontent.com/direwolf420/DamageVarianceSlider/main/icon.png)
 
-Steam Workshop link: 
+Steam Workshop link: https://steamcommunity.com/sharedfiles/filedetails/?id=2989271447
 
 Customize the percentage that damage randomly changes by
 
