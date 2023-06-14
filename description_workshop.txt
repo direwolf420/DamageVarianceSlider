@@ -1,0 +1,20 @@
+Damage Variance Slider - Customize the percentage that damage randomly changes by
+
+By default, your damage varies by +-15%. With this mod, you can set it up to 100% or disable it entirely! This is done by using the [b]slider[/b] in the config of this mod.
+An additional setting to disable luck based skewing also exists if needed.
+[hr][/hr]
+[b]Notes:[/b]
+* Affects player-to-enemy damage only
+* Serversided config
+* Useful for developers that test/balance mods
+[hr][/hr]
+[b]Disclaimer:[/b]
+Such a feature exists in other mods already, I wanted to have a standalone version of this that includes nothing else; Do check out these mods though, you may like them aswell:
+* [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2813723898]Rho's Playground[/url]
+* [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2907393250]Storm's Tweaks Mod[/url]
+* [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2836773381]Disable Damage Spread[/url]
+[hr][/hr]
+[b]Localization:[/b]
+If you want to add support for different languages, you are welcome to contribute localizations here: [b][url=https://github.com/direwolf420/DamageVarianceSlider]GitHub[/url][/b]
+List of localization contributors:
+* None!

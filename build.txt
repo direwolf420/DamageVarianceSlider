@@ -1,0 +1,7 @@
+displayName = Damage Variance Slider
+author = direwolf420
+version = 0.1
+hideCode = false
+hideResources = false
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .gitignore, Properties\*

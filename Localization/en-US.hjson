@@ -1,0 +1,21 @@
+Mods: {
+	DamageVarianceSlider: {
+		Configs: {
+			Common.AcceptClientChanges: You are not the server owner so you can not change this config
+
+			Config: {
+				DisplayName: Config
+
+				DamageVariance: {
+					Label: Damage Variance
+					Tooltip: How much your damage will vary by in percent (affects all player-to-enemy damage)
+				}
+
+				DisableLuckVariance: {
+					Label: Disable Luck Variance
+					Tooltip: Disable luck based variance skewing
+				}
+			}
+		}
+	}
+}
