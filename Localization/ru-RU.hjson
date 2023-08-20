@@ -1,7 +1,7 @@
 Mods: {
 	DamageVarianceSlider: {
 		Configs: {
-			Common.AcceptClientChanges: Вы не владелец этого сервера, поэтому Вы не можете изменять эти настройки
+			Common.AcceptClientChanges: Только владелец этого мира может менять настройки! Смените настройки в одиночной игре.
 
 			Config: {
 				DisplayName: Настройки

@@ -1,7 +1,7 @@
 Mods: {
 	DamageVarianceSlider: {
 		Configs: {
-			// Common.AcceptClientChanges: You are not the server owner so you can not change this config
+			// Common.AcceptClientChanges: Only the host of this world can change the config! Do so in singleplayer.
 
 			Config: {
 				// DisplayName: Config
