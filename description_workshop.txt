@@ -17,4 +17,4 @@ Such a feature exists in other mods already, I wanted to have a standalone versi
 [b]Localization:[/b]
 If you want to add support for different languages, you are welcome to contribute localizations here: [b][url=https://github.com/direwolf420/DamageVarianceSlider]GitHub[/url][/b]
 List of localization contributors:
-* None!
+* Russian: [b]GodHybrid[/b]
