@@ -1,19 +1,19 @@
 Mods: {
 	DamageVarianceSlider: {
 		Configs: {
-			// Common.AcceptClientChanges: You are not the server owner so you can not change this config
+			Common.AcceptClientChanges: Вы не владелец этого сервера, поэтому Вы не можете изменять эти настройки
 
 			Config: {
-				// DisplayName: Config
+				DisplayName: Настройки
 
 				DamageVariance: {
-					// Label: Damage Variance
-					// Tooltip: How much your damage will vary by in percent (affects all player-to-enemy damage)
+					Label: Разброс урона
+					Tooltip: Разброс количества наносимого урона в процентах (влияет на весь урон 'игрок-враг')
 				}
 
 				DisableLuckVariance: {
-					// Label: Disable Luck Variance
-					// Tooltip: Disable luck based variance skewing
+					Label: Отключить разброс от удачи
+					Tooltip: Отключить разброс параметров, на которые влияет удача
 				}
 			}
 		}
