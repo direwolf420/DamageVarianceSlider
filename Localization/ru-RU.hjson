@@ -1,19 +1,19 @@
 Mods: {
 	DamageVarianceSlider: {
 		Configs: {
-			// Common.AcceptClientChanges: Only the host of this world can change the config! Do so in singleplayer.
+			Common.AcceptClientChanges: Только владелец этого мира может менять настройки! Смените настройки в одиночной игре.
 
 			Config: {
-				// DisplayName: Config
+				DisplayName: Настройки
 
 				DamageVariance: {
-					// Label: Damage Variance
-					// Tooltip: How much your damage will vary by in percent (affects all player-to-enemy damage)
+					Label: Разброс урона
+					Tooltip: Разброс количества наносимого урона в процентах (влияет на весь урон 'игрок-враг')
 				}
 
 				DisableLuckVariance: {
-					// Label: Disable Luck Variance
-					// Tooltip: Disable luck based variance skewing
+					Label: Отключить разброс от удачи
+					Tooltip: Отключить разброс параметров, на которые влияет удача
 				}
 			}
 		}
