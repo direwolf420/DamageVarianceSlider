@@ -1,19 +1,19 @@
 Mods: {
 	DamageVarianceSlider: {
 		Configs: {
-			// Common.AcceptClientChanges: Only the host of this world can change the config! Do so in singleplayer.
+			Common.AcceptClientChanges: Solo il proprietario del mondo può cambiare la configurazione! Fallo in giocatore singolo.
 
 			Config: {
-				// DisplayName: Config
+				DisplayName: Configurazione
 
 				DamageVariance: {
-					// Label: Damage Variance
-					// Tooltip: How much your damage will vary by in percent (affects all player-to-enemy damage)
+					Label: Variazione danno
+					Tooltip: Quanto il tuo danno varierà in percentuale (influisce su tutti i danni da giocatore a nemico)
 				}
 
 				DisableLuckVariance: {
-					// Label: Disable Luck Variance
-					// Tooltip: Disable luck based variance skewing
+					Label: Disabilita variazione fortuna
+					Tooltip: Disabilita la variazione dei parametri della fortuna
 				}
 			}
 		}
