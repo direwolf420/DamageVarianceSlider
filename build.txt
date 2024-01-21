@@ -1,6 +1,6 @@
 displayName = Damage Variance Slider
 author = direwolf420
-version = 0.1.0.1
+version = 0.1.0.2
 hideCode = false
 hideResources = false
 includeSource = false

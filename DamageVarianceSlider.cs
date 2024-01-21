@@ -6,14 +6,9 @@ namespace DamageVarianceSlider
 {
 	public class DamageVarianceSliderMod : Mod
 	{
-		public static LocalizedText AcceptClientChangesText { get; private set; }
-
 		public override void Load()
 		{
 			On_Main.DamageVar_float_int_float += On_Main_DamageVar_float_int_float;
-
-			string configCategory = $"Configs.Common.";
-			AcceptClientChangesText ??= Language.GetOrRegister(this.GetLocalizationKey($"{configCategory}AcceptClientChanges"));
 		}
 
 		private static int On_Main_DamageVar_float_int_float(On_Main.orig_DamageVar_float_int_float orig, float dmg, int percent, float luck)
