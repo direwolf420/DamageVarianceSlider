@@ -2,16 +2,16 @@ Mods: {
 	DamageVarianceSlider: {
 		Configs: {
 			Config: {
-				// DisplayName: Config
+				DisplayName: Configuração
 
 				DamageVariance: {
-					// Label: Damage Variance
-					// Tooltip: How much your damage will vary by in percent (affects all player-to-enemy damage)
+					Label: Variação de dano
+					Tooltip: O quanto, em porcentagem, o dano irá variar (afeta todo tipo de dano de jogador-inimigo)
 				}
 
 				DisableLuckVariance: {
-					// Label: Disable Luck Variance
-					// Tooltip: Disable luck based variance skewing
+					Label: Desligar variação de sorte
+					Tooltip: Desliga a distorção que a sorte acarreta no dano
 				}
 			}
 		}
