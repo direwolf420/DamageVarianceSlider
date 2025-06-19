@@ -1,5 +1,5 @@
 en-US, 5/5, 100%, missing 0
-de-DE, 0/5, 0%, missing 5
+de-DE, 5/5, 100%, missing 0
 it-IT, 5/5, 100%, missing 0
 fr-FR, 0/5, 0%, missing 5
 es-ES, 0/5, 0%, missing 5

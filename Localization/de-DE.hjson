@@ -1,19 +1,19 @@
 Mods: {
-    DamageVarianceSlider: {
-        Configs: {
-            Config: {
-                DisplayName: Konfiguration
+	DamageVarianceSlider: {
+		Configs: {
+			Config: {
+				DisplayName: Konfiguration
 
-                DamageVariance: {
-                    Label: Schadenabweichung
-                    Tooltip: Wie stark Ihr Schaden in Prozent variieren wird (betrifft allen Spieler-zu-Feind-Schaden)
-                }
+				DamageVariance: {
+					Label: Schadenabweichung
+					Tooltip: Wie stark Ihr Schaden in Prozent variieren wird (betrifft allen Spieler-zu-Feind-Schaden)
+				}
 
-                DisableLuckVariance: {
-                    Label: Glücksabweichung deaktivieren
-                    Tooltip: Glücksbasierte Abweichungsverzerrung deaktivieren
-                }
-            }
-        }
-    }
+				DisableLuckVariance: {
+					Label: Glücksvarianz deaktivieren
+					Tooltip: Glücksbasierte Abweichungsverzerrung deaktivieren
+				}
+			}
+		}
+	}
 }

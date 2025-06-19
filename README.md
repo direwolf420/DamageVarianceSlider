@@ -30,3 +30,4 @@ List of localization contributors:
 * Russian: **GodHybrid**
 * Italian: **Sea Noodle**
 * Brazilian Portuguese: **marviN**
+* German: **Lighty**

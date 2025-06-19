@@ -20,3 +20,4 @@ List of localization contributors:
 * Russian: [b]GodHybrid[/b]
 * Italian: [b]Sea Noodle[/b]
 * Brazilian Portuguese: [b]marviN[/b]
+* German: [b]Lighty[/b]
